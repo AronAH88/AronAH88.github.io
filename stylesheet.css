@@ -1,0 +1,40 @@
+/* This is a comment in css */
+
+/* Styling for the entire page */
+body {
+	background-color: #035afc;
+	/* styling font */
+	color: black;
+	font-family: arial;
+}
+
+/* Styling for big headers */
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+/* styling for paragraph text */
+p {
+	padding: 10px;
+}
+
+img.custom_img {
+	width: 40%;
+	/* center image */
+	display: block;
+	margin: auto;
+}
+
+/* Styling for links */
+a {
+	color: pink;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: red;
+}
