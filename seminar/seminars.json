@@ -2,13 +2,24 @@
     {
         "id": "talk_31",
         "series": "Derived and Noncommutative Geometry",
-        "title": "How to Do Functional Analysis in Infinity Categories",
+        "title": "How to Do Functional Analysis in Infinity Categories",    
         "speaker": "Daming Zhou",
         "affiliation": "SCMS",
         "date": "2026-09-14",
         "time": "Monday, September 14, 15:00-18:00",
         "venue": "Room 1110",
         "abstract": "In Part I, I will review functional analytic phenomena in condensed mathematics, including p-adic Banach spaces, Fréchet spaces, trace-class operators, and nuclear spaces, along with the definitions of dualizable categories and rigid categories. In Part II, I will explain Efimov's recent series of works using the perspective of functional analysis, and shows how this approach can be used to solve some problems Efimov left in his paper, I will also present an outlook toward a framework for noncommutative analytic geometry."
+    },
+    {
+        "id": "talk_41",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Supersymmetry and differential operators of infinite order applied to theta functions",
+        "speaker": "Mikhail Kapranov",
+        "affiliation": "IPMU",
+        "date": "2026-07-03",
+        "time": "2026-07-03 13:00-16:00",
+        "venue": "1410, SIMIS Zoom meeting ID: 820 0535 7982 Password: SIMIS",
+        "abstract": "In 1972 M. Sato developed a characterization of theta-zerovalues by differential operators of infinite order (DOI) applied to the modular variables alone. A DOI is an infinite series in derivatives with decay conditions ensuring that the action is local (preserves the domain of definition). Thus, $\\exp(d/dx)$ (shift) is not a DOI but $\\cos(\\sqrt{d/dx})$ is. This theory has been developed by several authors since.\n\nI will present a conceptual interpretation of this theory based on supersymmetry which turns out to be hidden in the theory of theta functions. In particular, we have two general phenomena:\n\nThe exponential of any odd supersymmetry generator (in any supersymmetric theory) is always a DOI.\nIn some cases, these odd generators, considered “on-shell” (i.e., on the space of solutions of equations of motion) satisfy additional purely even commutation relations."
     },
     {
         "id": "talk_1",
@@ -42,6 +53,138 @@
         "time": "2026-02-23 15:00-18:00",
         "venue": "R1110,SIMIS",
         "abstract": "Motivated by the gauge-theoretic picture of surface defects / tame ramification (Gukov-Witten) and its reincarnations in class S and defect constructions (e.g. Chacaltana-Distler-Tachikawa), I will discuss two related projects around ramified Hitchin systems. First, I will review my joint work with Kydonakis on D-level structures on parahoric torsors and the resulting logahoric/parahoric Hitchin moduli, where a natural moment-map description produces Poisson moduli spaces whose Hitchin maps are algebraically completely integrable Hamiltonian systems. Second, I will explain how residually nilpotent (tame nilpotent-residue) Higgs bundles arise as a special regime of this level-structured setup. Here the abelianization data must reflect jumping Weyl symmetry near marked points (local stabilizers given by reflection subgroups attached to the nilpotent type), leading to a cameral/spectral description compatible with these residue constraints. The final goal is to explain topological mirror symmetry of residually nilpotent Higgs bundles."
+    },
+    {
+        "id": "talk_44",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Stacky Approach to Galois Representations",
+        "speaker": "Grigory Andreychev",
+        "affiliation": "Morningside Center of Mathematics, Chinese Academy of Sciences",
+        "date": "2026-01-09",
+        "time": "2026-01-09 15:00-18:00",
+        "venue": "1210, SIMIS Zoom Meeting ID: 889 5630 8036 Passcode: SIMIS",
+        "abstract": "In ongoing joint work with Maximilian Hauck and Tasos Moulinos, we investigate the étale realization functor from prismatic F-gauges to Galois representations of Q_p with coefficients in Z_p; in the course of this study, we construct an analytic stack in the sense of Clausen–Scholze whose category of quasi-coherent sheaves, or to be more precisely, its category of perfect complexes, is equivalent to the bounded derived category of finitely generated Galois representations."
+    },
+    {
+        "id": "talk_34",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Higgs categories and Gorenstein projective dg modules",
+        "speaker": "Bernhard Keller / 孔博恩",
+        "affiliation": "Universite Paris Cite / 巴黎西岱大学",
+        "date": "2025-12-22",
+        "time": "2025-12-22 15:00-18:00",
+        "venue": "1110, SIMIS",
+        "abstract": "Higgs categories are certain exact dg categories which serve to (additively) categorify cluster algebras with (non invertible) coefficients. They were introduced by Yilin Wu in 2023. A basic example is the category of finite-dimensional modules over the preprojective algebra of a Dynkin quiver (i.e. a quiver whose underlying graph is an ADE Dynkin diagram). As shown by Geiss-Leclerc-Schroer (2006), this category allows to categorify the coordinate algebra of the maximal unipotent subgroup in the simple algebraic group of the same Dynkin type. While in this basic example, the Higgs category is a Quillen exact category concentrated in degree 0, the Higgs categories corresponding to cluster varieties like double Bruhat cells or triples of flags have homologies in infinitely many non zero degrees. In this talk, we will introduce Higgs categories and illustrate the construction on many examples. We will then report on recent joint work with Miantao Liu (based on previous work by Yilin Wu, by Xiaofa Chen and by Zhenhui Ding), where we use Gorenstein projective dg modules to describe Higgs categories. This allows to prove an equivalence conjectured by Merlin Christ and to lift Goncharov-Shen’s symmetries of varieties of triples of flags to the categorical level."
+    },
+    {
+        "id": "talk_35",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Towards understanding the limiting behavior of categorical enumerative invariants",
+        "speaker": "Junwu Tu",
+        "affiliation": "ShanghaiTech",
+        "date": "2025-12-20",
+        "time": "2025-12-20 11:00-12:30",
+        "venue": "1110, SIMIS Zoom Meeting ID: 886 8880 9649 Passcode: SIMIS",
+        "abstract": "Categorical Enumerative Invariants are Morita invariants associated with smooth and proper Calabi-Yau categories. In this talk, I will discuss some work-in-progress in trying to understand these invariants under stable degenerations of Calabi-Yau’s. (Joint with Andrei Caldararu.)"
+    },
+    {
+        "id": "talk_36",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "The cyclic Deligne conjecture and Calabi-Yau structures",
+        "speaker": "Chris Brav",
+        "affiliation": "SIMIS",
+        "date": "2025-12-20",
+        "time": "2025-12-20 09:00-10:30",
+        "venue": "1110, SIMIS Zoom Meeting ID: 886 8880 9649 Passcode: SIMIS",
+        "abstract": "The Deligne conjecture, many times a theorem, states that for a dg category C, the dg endomorphisms End(Id_C) of the identity functor– that is, the Hochschild cochains– carries a natural structure of 2-algebra. When C is endowed with a Calabi-Yau structure, then Hochschild cochains and Hochschild chains are identified up to a shift, and we may transport the circle action from Hochschild chains onto Hochschild cochains. The cyclic Deligne conjecture states that the 2-algebra structure and the circle action together give a framed 2-algebra structure on Hochschild cochains. We establish the cyclic Deligne conjecture, as well as a variation that works for relative Calabi-Yau structures on dg functors D –> C, more generally for functors between stable infinity categories. We discuss examples coming from oriented manifolds with boundary, Fano varieties with anticanonical divisor, and doubled quivers with preprojective relation."
+    },
+    {
+        "id": "talk_33",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Deformations of T-log-symplectic log-canonical Poisson brackets",
+        "speaker": "Mykola Matviichuk",
+        "affiliation": "CUHK",
+        "date": "2025-12-08",
+        "time": "15:00~18:00, 2025-12-08",
+        "venue": "Room 1110, SIMIS",
+        "abstract": "A Poisson bracket is called log-canonical if it is of the form $\\{x_i, x_j\\} = \\lambda_{ij} x_i x_j$. This talk presents a method for deforming such a bracket under an additional assumption of T-log-symplecticity, which will be defined. An application to Lie theory, in particular Bott-Samelson varieties, will be presented. This is joint work with J.-H. Lu."
+    },
+    {
+        "id": "talk_37",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Deformations of graded gentle algebras and the geometric interpretation",
+        "speaker": "汪正方",
+        "affiliation": "南京大学",
+        "date": "2025-11-29",
+        "time": "2025-11-29 10:00-13:00",
+        "venue": "1110, SIMIS Zoom Meeting ID: 869 5076 1955 Passcode: SIMIS",
+        "abstract": "A general principle in symplectic geometry, formulated by Seidel in his ICM 2002 address, is that the Fukaya category of a partial compactification of a non-compact symplectic manifold M may be viewed as a deformation of the Fukaya category of M. Conversely, one may ask if any deformation parametrized by a class in Hochschild cohomology has a geometric interpretation. We show that deformations of (topological) partially wrapped Fukaya categories of surfaces correspond to smooth or orbifold compactifications of the underlying surface. To show this, we give a complete description of A-infinity deformations of graded gentle algebras. As an application, we construct a family of non skew-gentle algebras which are derived equivalent to skew-gentle algebras. This is a joint work in progress with Barmeier and Schroll."
+    },
+    {
+        "id": "talk_43",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "On prismatic cohomology and q-de Rham operators (II)",
+        "speaker": "Jingbang Guo",
+        "affiliation": "SCMS",
+        "date": "2025-11-17",
+        "time": "2025-11-17 15:00-18:00",
+        "venue": "710, SIMIS",
+        "abstract": "The prismatic cohomology, introduced first by Bhatt and Scholze, is a cohomology theory for p-adic formal schemes which can be specialized to many other cohomology theories.\n\nIn this talk, following Bhatt-Scholze and Bhatt-Lurie, the prismatic cohomology will be defined. We will illustrate by simple example the relation between the prismatic cohomology relative to a q-de Rham prism and the q-de Rham cohomology.\n\nIf time permits, we will also illustrate by simple example the method of studying absolute prismatic cohomology by a q-de Rham prism, and explain the general idea in terms of Hopf algebroids.\n\nThis talk is based on joint work with Ruochuan Liu and Guozhen Wang."
+    },
+    {
+        "id": "talk_38",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Fukaya category and sheaf theory over Novikov ring",
+        "speaker": "Tatsuki Kuwagaki",
+        "affiliation": "Kyoto University",
+        "date": "2025-11-10",
+        "time": "2025-11-10 15:00-18:00",
+        "venue": "1110, SIMIS Zoom Meeting ID: 822 3076 0473 Passcode: SIMIS",
+        "abstract": "The Fukaya category is a powerful invariant in symplectic geometry, defined through highly transcendental nonlinear analysis. Just as Morse cohomology is isomorphic to ordinary cohomology, certain Fukaya categories can be understood via topological methods. In particular, over the last decade, “exact Fukaya categories” have been deeply understood through microlocal sheaf theory.\n\nHowever, the framework of exact Fukaya categories is insufficient for addressing a wider range of Lagrangian submanifolds or for incorporating quantitative information.\n\nFor the past five years, the speaker has been working on ideas that aim to prove an equivalence between the nonexact Fukaya categories of a class of exact symplectic manifolds and certain categories of sheaves, known as (equivariant) Tamarkin categories.\n\nIn this talk, I will explain the main ideas and related notions that will eventually lead to the proof of this equivalence."
+    },
+    {
+        "id": "talk_42",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "On prismatic cohomology and q-de Rham operators",
+        "speaker": "Jingbang Guo",
+        "affiliation": "Shanghai Center for Mathematical Sciences (SCMS)",
+        "date": "2025-11-03",
+        "time": "2025-11-03 15:00-18:00",
+        "venue": "1010, SIMIS",
+        "abstract": "The prismatic cohomology, introduced first by Bhatt and Scholze, is a cohomology theory for p-adic formal schemes which can be specialized to many other cohomology theories.\n\nIn this talk, different approaches to prismatic cohomology will be briefly discussed, and more attention will be drawn to the prismatization, introduced by Drinfeld and Bhatt-Lurie, which realizes prismatic cohomology as coherent cohomology of certain stack. By taking suitable covering of this stack of prismatization, it is possible to study prismatic cohomology through concrete operators, for example, the so-called q-de Rham operators.\n\nThere will also be a general discussion, in terms of Hopf algebroids, on this process of extracting operators from stacks with suitable coverings, and in principle it should be nothing else but monadicity. There might also be a tentative discussion on the functoriality and duality for prismatic cohomology.\n\nThis talk is based on joint work with Ruochuan Liu and Guozhen Wang."
+    },
+    {
+        "id": "talk_32",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Atiyah–Hirzebruch for (possibly derived) qcqs schemes",
+        "speaker": "Shane Kelly",
+        "affiliation": "University of Tokyo",
+        "date": "2025-10-27",
+        "time": "2025-10-27 15:00-18:00",
+        "venue": "1110, SIMIS Zoom Meeting ID: 882 5464 8726 Passcode: SIMIS",
+        "abstract": ""
+    },
+    {
+        "id": "talk_39",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Milnor K-groups and differential forms",
+        "speaker": "Sergey Gorchinskiy",
+        "affiliation": "Steklov Mathematical Institute",
+        "date": "2025-10-22",
+        "time": "2025-10-22, 13:00~18:00",
+        "venue": "1110, SIMIS",
+        "abstract": "The talk is based on a common work with D. Tyurin. We will discuss relative Milnor K-groups for rings with nilpotent ideals. In the case of Q-algebras, they are completely described in terms of differential forms. In the case of p-adic rings, we provide a similar description for K_2 in terms of a version of the Artin-Hasse exponential. This also involves a p-adic version of the Bloch-Winger function."
+    },
+    {
+        "id": "talk_40",
+        "series": "Derived and Noncommutative Geometry",
+        "title": "Rational maps and K3 Surface",
+        "speaker": "Ilya Karzhemanov",
+        "affiliation": "MIPT",
+        "date": "2025-10-15",
+        "time": "2025-10-15 15:00-18:00",
+        "venue": "R1110, SIMIS",
+        "abstract": "I will speak about old and new results concerning rational dominant maps A —> S between surfaces with trivial canonical classes."
     },
     {
         "id": "talk_4",
